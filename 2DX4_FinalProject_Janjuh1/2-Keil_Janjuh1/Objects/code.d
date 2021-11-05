@@ -1,0 +1,16 @@
+.\objects\code.o: code.c
+.\objects\code.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\code.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\code.o: tm4c1294ncpdt.h
+.\objects\code.o: vl53l1x_api.h
+.\objects\code.o: vl53l1_platform.h
+.\objects\code.o: vl53l1_types.h
+.\objects\code.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\code.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\code.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\code.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\code.o: Systick.h
+.\objects\code.o: PLL.h
+.\objects\code.o: uart.h
+.\objects\code.o: onboardLEDs.h
+.\objects\code.o: I2C0.h
